@@ -1,2 +1,4 @@
-#include "Warrior.h"
-int mainFunction() {}
+#include "Monster.h"
+int mainFunction() {
+	// the main function
+}
